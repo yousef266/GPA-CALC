@@ -22,5 +22,17 @@ button {
 
 #result {
   margin-top: 20px;
-  font-size: 18px;
+  font-size: 18px;
+}
+.namesub {
+  display: flex;
+  align-items: center;
+  margin-top: 7px;
+  width: -moz-fit-content;
+  width: fit-content;
+  position: absolute;
+  left: 33%;
+}
+.margin {
+  margin: 20px;
 }
